@@ -1,7 +1,7 @@
 # 💫About Me :
-I'm currently working on Frontend.
-I'm currently learning more about Flutter.
-How to reach me: LinkedIn - @saurabhjadhavv, Twitter - @saurabhjadhav.in
+
+I'm currently learning more about Excel, MySQL, PowerBI & CyberSecurity.
+How to reach me: LinkedIn - @saurabhjadhavv
 
 
 ## 🌐Socials
